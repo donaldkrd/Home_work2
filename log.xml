@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-12T17:30:27.418964300Z</date>
+  <millis>1676223027418</millis>
+  <nanos>964300</nanos>
+  <sequence>0</sequence>
+  <logger>Home_Work_02</logger>
+  <level>WARNING</level>
+  <class>Home_Work_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log level WARNING</message>
+</record>
+</log>
